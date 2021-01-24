@@ -1,1 +1,1 @@
-# Paper-Can
+# CP-2
